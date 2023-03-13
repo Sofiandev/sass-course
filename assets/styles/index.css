@@ -25,6 +25,12 @@ h1 {
   font-size: 3rem;
   text-align: center;
 }
+@media screen and (max-width: 700px) {
+  h1 {
+    font-size: 2rem;
+    color: white;
+  }
+}
 h1:after {
   content: "*";
   position: absolute;
