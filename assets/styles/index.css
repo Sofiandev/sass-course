@@ -9,6 +9,7 @@ body {
 
 nav {
   background: orange;
+  color: white;
 }
 nav ul {
   display: flex;
